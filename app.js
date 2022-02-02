@@ -1,4 +1,4 @@
-// program that checks if the number is positive, negative or zero
+// program that checks if the number is positive, negative or zero. This line is changed from the original for this commit
 // input from the user
 const number = parseInt(prompt("Enter a number: "));
 
