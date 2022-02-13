@@ -1,5 +1,5 @@
-// program that checks if the number is positive, negative or zero. This line is changed from the original for this commit
-// input from the user
+// program that checks if the number is positive, negative or zero. This line is changed again
+// input from the user. 
 const number = parseInt(prompt("Enter a number: "));
 
 // check if number is greater than 0
